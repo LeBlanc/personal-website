@@ -1,0 +1,10 @@
+# Site settings
+title: Andrew LeBlanc
+email: andrew@everribbon.com
+description: "This is Andrew LeBlanc's personal website."
+baseurl: ""
+url: "http://andrewleblanc.net"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
