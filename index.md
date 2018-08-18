@@ -2,11 +2,9 @@
 layout: default
 ---
 
-## Hello, my name is Andrew LeBlanc!
+Andrew LeBlanc is a writer and programmer. He lives in New York city where he manages a rooftop garden and searches for strange new foods to eat.
 
-I am a full stack web developer originally from Texas. I primarily program in some combination of ruby, javascript, and php.
-
-I currently work for myself on the projects below, but I am available for consulting/contract work. My specialties include API development, API integrations, security, payments, asynchronous problems, and general backend work. 
+Here are some of the things he works on:
 
 ## <a href="https://www.everribbon.com">EverRibbon</a>
 
